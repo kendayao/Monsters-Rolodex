@@ -2,7 +2,7 @@
 
 ## Description
 
-This is a simple web application that displays information for different monsters.
+This is a simple web application that displays information for different monsters. This project was built to practice React fundamentals.
 
 ## Table of Contents
 
